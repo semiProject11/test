@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("난 승훈이야");
 
 		System.out.println("나는 조장이야");
+		
+		System.out.println("난 승후니야 안뇽안뇽안뇽");
 
 
 	}
