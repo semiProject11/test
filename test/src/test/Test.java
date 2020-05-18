@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("나는 조장이야");
 		
 		System.out.println("다들 얼른하란 말야!");
+		
 
 
 	}
