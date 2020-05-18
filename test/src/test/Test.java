@@ -6,12 +6,19 @@ public class Test {
 		System.out.println("안녕 우리조?");
 
 
+
 		System.out.println("난 승훈이야");
+
+		System.out.println("난 누굴까  ");
+		System.out.println("1차시도 실패 2차 도전");
+
+
 
 
 
 
 		System.out.println("난 김동원이라고 해");
+
 
 
 		System.out.println("난 승훈이담");
@@ -23,6 +30,10 @@ public class Test {
 		System.out.println("난 승후니야 안뇽안뇽안뇽");
 
 
+
+
+
+	
 
 
 	}
